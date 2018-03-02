@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 2, 2018
 
 ### Student Name:  
-(First and Last Name)
+Shawn Herron
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, a tax calculator was designed to use a person's annual income as input, and display the person's tax percentage and bracket as output. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://sbh15b.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I feel more comfortable declaring and initilaizing variables.
+2. I improved my understanding of the clear button and how to select exactly what you want to be cleared.
+3. Overall understanding of tax brackets and how to file for taxes was enhanced.
 
